@@ -1,0 +1,5 @@
+C:\.Work\InMemoryOLTP2014\AboutSqlServer.Com.Classes\obj\Debug\AboutSqlServer.Com.Classes.csprojResolveAssemblyReference.cache
+C:\.Work\InMemoryOLTP2014\AboutSqlServer.Com.Classes\bin\Debug\AboutSqlServer.Com.Classes.dll
+C:\.Work\InMemoryOLTP2014\AboutSqlServer.Com.Classes\bin\Debug\AboutSqlServer.Com.Classes.pdb
+C:\.Work\InMemoryOLTP2014\AboutSqlServer.Com.Classes\obj\Debug\AboutSqlServer.Com.Classes.dll
+C:\.Work\InMemoryOLTP2014\AboutSqlServer.Com.Classes\obj\Debug\AboutSqlServer.Com.Classes.pdb

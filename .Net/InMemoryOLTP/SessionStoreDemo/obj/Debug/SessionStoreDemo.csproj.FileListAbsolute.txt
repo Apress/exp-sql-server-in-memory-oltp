@@ -1,0 +1,11 @@
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\obj\Debug\SessionStoreDemo.csprojResolveAssemblyReference.cache
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\obj\Debug\Actsoft.Com.SessionStoreDemo.frmMain.resources
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\obj\Debug\AboutSqlServer.Com.SessionStoreDemo.Properties.Resources.resources
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\obj\Debug\SessionStoreDemo.csproj.GenerateResource.Cache
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\bin\Debug\SessionStoreDemo.exe.config
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\bin\Debug\SessionStoreDemo.exe
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\bin\Debug\SessionStoreDemo.pdb
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\bin\Debug\AboutSqlServer.Com.Classes.dll
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\bin\Debug\AboutSqlServer.Com.Classes.pdb
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\obj\Debug\SessionStoreDemo.exe
+C:\.Work\InMemoryOLTP2014\SessionStoreDemo\obj\Debug\SessionStoreDemo.pdb
